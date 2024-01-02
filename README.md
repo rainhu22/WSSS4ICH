@@ -28,11 +28,11 @@ RSNA 2019
   
   - Make your data directory like this below
   ``` bash
-  Datasets/
-  └── instance
-      ├── 001_slice_0.h5
-      ├── 001_slice_1.h5
-      ├── ...
+    Datasets/
+    └── instance
+        ├── 001_slice_0.h5
+        ├── 001_slice_1.h5
+        ├── ...
   ```
 
   </details>
