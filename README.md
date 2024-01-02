@@ -26,7 +26,7 @@ RSNA 2019
   INSTANCE 2022
   </summary>
   
-- Make your data directory like this below
+  - Make your data directory like this below
   ``` bash
   Datasets/
   └── instance
