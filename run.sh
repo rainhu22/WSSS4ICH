@@ -1,6 +1,5 @@
 python main.py --model Conv_former \
                 --data-set RSNA \
-                --scales 1.0 \
                 --img-list rsna \
                 --data-path /data-8T/hyr/MCTformer/Datasets/rsna \
                 --attention-type cls \
